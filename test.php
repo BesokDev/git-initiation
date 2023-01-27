@@ -1,3 +1,9 @@
 <?php
-echo "Hello Toto ";
+echo "Hello World";
+
+
+function toto() {
+    return 'toto';
+}
 ?>
+
